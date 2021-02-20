@@ -6,8 +6,8 @@ var rockets, rocket1, rocket2, rocket3, rocket4;
 var space, rocket_img;
 
 function preload(){
-  space = loadImage("images/space.jpg");
-  rocket_img = loadImage("images/rocket.png");
+  space = loadImage("space.jpg");
+  rocket_img = loadImage("rocket.png");
 }
 
 function setup(){
